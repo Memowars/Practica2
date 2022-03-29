@@ -1,0 +1,1 @@
+walking_acept_test()\nUser accepted the changes\!\!
